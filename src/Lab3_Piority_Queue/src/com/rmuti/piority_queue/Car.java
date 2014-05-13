@@ -1,4 +1,4 @@
-package com.rmuti.Piority_Queue;
+package com.rmuti.piority_queue;
 
 import java.util.Arrays;
 

@@ -1,8 +1,8 @@
-package Constructor;
+package constructor;
 
 import java.util.Arrays;
 
-import Constructor.Sneijder;
+import constructor.Sneijder;
 
 public class Sneijder {
 	private String name;
