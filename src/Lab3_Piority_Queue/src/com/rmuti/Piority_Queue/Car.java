@@ -38,7 +38,7 @@ import java.util.Arrays;
 				new Car("Honda 1000rr","Bigbike",843000),};
 				Arrays.sort(CarArrays);
 				System.out.println("Bigbike Price");
-				System.out.println(Arrays.toString(CarArrays));
+				System.out.println(Arrays.toString(CarArrays)); 
 
 	}
 

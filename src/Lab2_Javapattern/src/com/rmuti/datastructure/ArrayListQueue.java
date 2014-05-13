@@ -7,7 +7,7 @@ public class ArrayListQueue {
 		list.add(e);
 	}
 	public Object deQueue() {
-		Object a = list.get(0);
+		Object a = list.get(0); 
 		list.remove(0);
 		return a;
 	}
